@@ -1,5 +1,5 @@
 ```markdown
-# 🎬 Netflix Clone (React + Vite + Firebase)
+# 🎬  Streaming Site like NETFLIX (React + Vite + Firebase)
 
 A Netflix-inspired web app built with ⚡ **Vite**, 🔥 **Firebase**, and 💅 styled components. Browse trending titles, stream trailers, authenticate users, and manage your personal watchlist—all in a fast and modern UI.
 
