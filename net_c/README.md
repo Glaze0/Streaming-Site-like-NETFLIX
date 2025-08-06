@@ -18,7 +18,7 @@ A Netflix-inspired web app built with ⚡ **Vite**, 🔥 **Firebase**, and 💅 
 | React + Vite | Frontend framework & bundler       |
 | Firebase     | Authentication and Firestore DB    |
 | TMDB API     | Movie/TV data                      |
-| CSS / SCSS   | Styling     |
+| CSS / SCSS   | Styling                            |
 ```
 
 ## 🚀 Getting Started
