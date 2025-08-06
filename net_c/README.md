@@ -74,12 +74,7 @@ src/
 
 ## 🧪 Deployment
 
-You can deploy easily with **Firebase Hosting**:
-
-```
-npm run build
-firebase deploy
-```
+The site is deployed on versel.ai, where the site can viewed: https://streaming-site-orcin.vercel.app/
 
 
 ## 🪪 License
