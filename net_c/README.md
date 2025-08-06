@@ -27,7 +27,7 @@ A Netflix-inspired web app built with ⚡ **Vite**, 🔥 **Firebase**, and 💅 
 
 ```
 git clone https://github.com/Glaze0/Netflix_Clone.git
-cd Netflix-Clone
+cd net_c
 ```
 
 ### 2. Install Dependencies
